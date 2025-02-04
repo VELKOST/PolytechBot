@@ -1,0 +1,63 @@
+{
+    "students": [
+        {
+            "telegram_id": 6936523429,
+            "first_name": "Андрей",
+            "last_name": "Малик",
+            "group_number": "1"
+        },
+        {
+            "telegram_id": 434230321,
+            "first_name": "Даниил",
+            "last_name": "Федоровс",
+            "group_number": "221-321"
+        },
+        {
+            "telegram_id": 836537556,
+            "first_name": "Владислав",
+            "last_name": "Подъячев",
+            "group_number": "221-373"
+        }
+    ],
+    "admins": [
+        {
+            "telegram_id": 6936523429,
+            "first_name": "Артём",
+            "last_name": "Малик",
+            "group_number": "1"
+        },
+        {
+            "telegram_id": 434230321,
+            "first_name": "Даниил",
+            "last_name": "Федоровс",
+            "group_number": "221-321"
+        },
+        {
+            "telegram_id": 836537556,
+            "first_name": "Владислав",
+            "last_name": "Подъячев",
+            "group_number": "221-373"
+        }
+    ],
+    "activities": [
+        {
+            "id": "acb4cdc4-1204-4e43-8c13-fa89def883f6",
+            "title": "/admin",
+            "description": "/admin",
+            "date": "2024-05-30",
+            "location": "Московский политех",
+            "confirmed": true,
+            "submitter_id": 434230321
+        },
+        {
+            "id": "bda16e5b-14b8-4bc0-905e-37d0e6e9fa50",
+            "title": "Nelf",
+            "description": "c.lf",
+            "date": "2025-01-01",
+            "location": "ghzybrb",
+            "confirmed": true,
+            "submitter_id": 836537556
+        }
+    ],
+    "achievements": []
+}
